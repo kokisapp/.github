@@ -1,1 +1,1 @@
-![Alt text](../docs/banner.png "kokis.")
+![Alt text](../social-banner.png "kokis.")
